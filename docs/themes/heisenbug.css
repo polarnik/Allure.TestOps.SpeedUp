@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/*!
+ * Marp / Marpit Heisenbug theme.
+ *
+ * @theme heisenbug
+ * @auto-scaling true
+ * @author Smirnov Viacheslav
+ */
+
+@import 'baseConference';
+
+:root {
+    --logo: url("themes/img/hb-logo.png");
+}
+
+section.lead {
+    background-image: url("img/testopslogo.svg"), var(--logo), var(--main-bg); 
+    background-position: 95% 73%, 95% 95%, 0% bottom;
+    background-repeat: no-repeat, no-repeat,  no-repeat;
+    background-size: 20%,  20%, 100%;
+    background-origin: padding-box, padding-box,  padding-box;
+    color: var(--text-color) !important;
+    text-decoration-color: var(--text-color)  !important;
+}
