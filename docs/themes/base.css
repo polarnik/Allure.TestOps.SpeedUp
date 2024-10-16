@@ -110,6 +110,7 @@ section.lead h3, section.title h3 {
 
 section code {
     font-family: 'JetBrains Mono', monospace;
+    background-color: #00000000;
 }
 section > p > code
 {
@@ -185,6 +186,11 @@ pre {
 
 img.emoji{
     margin: 0 0.1em 0 0.1em !important;
+}
+
+pre code.language-pl
+{
+    opacity: 0.3;
 }
 
 pre code.language-js span.hljs-keyword,
