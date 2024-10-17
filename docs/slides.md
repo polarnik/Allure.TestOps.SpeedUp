@@ -940,6 +940,33 @@ group by "query_key" order by total_exec_time desc
 ## _⚡️ отсортированные по длительности_
 ## _🌟 суммарные данные в отчете_
 
+---
+
+<!-- _class: main -->
+
+# TOP-__20__ запросов
+
+---
+
+<!-- _class: main -->
+
+# __50__ partial-индексов
+
+---
+
+
+![bg w:100%](img/index.png)
+
+---
+
+![bg w:100%](img/index.2.png)
+
+---
+
+<!-- _class: main -->
+
+# Среднее ускорение __x2__ 
+
 
 ---
 
@@ -1162,6 +1189,10 @@ proxy_pass https://backend;
 
 # `github.com/polarnik/` `Allure.TestOps.SpeedUp`
 
+
+---
+
+![bg w:100%](img/index.2.png)
 
 ---
 
