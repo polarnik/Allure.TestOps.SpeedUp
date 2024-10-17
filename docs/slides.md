@@ -38,63 +38,69 @@ _footer: `Image by Vlad Gerasimov on https://vlad.studio/`
 
 <!-- _class: main  -->
 
-# Тысячи тестов автоматизированы,  ___Allure__.__TestOps__ не тормозит_
+# Тысяча тестов автоматизирована,  ___Allure__.__TestOps__ не тормозит на нагрузке более __100 000__ результатов тестов в день_
 
 ---
 
 <!-- _class: main  -->
 
-# _Тысячи тестов автоматизированы,_  __Allure__.__TestOps__ не тормозит
-
-
----
-
-# 🟢 Allure TestOps _: Как устроена система?_
-
-# 🟡 Масштабирование _сервисов и баз данных_
-
-# 🟠 Оптимизации _настроек и SQL-запросов_
-
-# 🔴 Радикальные оптимизации _: кеширование и удаление_
-
-# 🟣 Рекомендации и скрипты _: Как автоматизировать?_ 
----
-
-# _🟢 Allure TestOps : Как устроена система?_
-
-# 🟡 Масштабирование _сервисов и баз данных_
-
-# 🟠 Оптимизации _настроек и SQL-запросов_
-
-# 🔴 Радикальные оптимизации _: кеширование и удаление_
-
-# _🟣 Рекомендации и скрипты : Как автоматизировать?_ 
+# _Тысяча тестов автоматизирована,_  __Allure__.__TestOps__ не тормозит на нагрузке более __100 000__ результатов тестов в день
 
 ---
 
-# _🟢 Allure TestOps : Как устроена сиыстема?_
+# 🟣 Allure TestOps _: Как устроена система?_
 
-# _🟡 Масштабирование сервисов и баз данных_
+# 🔵 Главная проблема горы тестов _: Где взять диски?_
 
-# 🟠 __Оптимизации__ настроек и SQL-запросов
+# 🟢 Масштабирование _сервисов и баз данных_
 
-# _🔴 Радикальные оптимизации : кеширование и удаление_
+# 🟡 Оптимизации _настроек и SQL-запросов_
 
-# _🟣 Рекомендации и скрипты : Как автоматизировать?_ 
+# 🟠 Радикальные оптимизации _: кеширование и удаление_
+
+# 🔴 Рекомендации и скрипты _: Как автоматизировать?_ 
+---
+
+# _🟣 Allure TestOps : Как устроена система?_
+
+# _🔵 Главная проблема горы тестов : Где взять диски?_
+
+# 🟢 Масштабирование _сервисов и баз данных_
+
+# 🟡 Оптимизации _настроек и SQL-запросов_
+
+# 🟠 Радикальные оптимизации _: кеширование и удаление_
+
+# _🔴 Рекомендации и скрипты : Как автоматизировать?_ 
 
 ---
 
-# _🟢 Allure TestOps : Как устроена система?_
+# _🟣 Allure TestOps : Как устроена сиыстема?_
 
-# _🟡 Масштабирование сервисов и баз данных_
+# _🔵 Главная проблема горы тестов : Где взять диски?_
 
-# _🟠 __Оптимизации__ настроек и SQL-запросов_
+# _🟢 Масштабирование сервисов и баз данных_
 
-# _🔴 Радикальные оптимизации : кеширование и удаление_
+# 🟡 __Оптимизации__ настроек и SQL-запросов
 
-# _🟣 Рекомендации и скрипты : Как автоматизировать?_ 
+# _🟠 Радикальные оптимизации : кеширование и удаление_
 
-# ☕️ Оптимизация вашей __Allure TestOps__
+# _🔴 Рекомендации и скрипты : Как автоматизировать?_ 
+
+---
+
+# _🟣 Allure TestOps : Как устроена сиыстема?_
+
+# _🔵 Главная проблема горы тестов : Где взять диски?_
+
+# _🟢 Масштабирование сервисов и баз данных_
+
+# _🟡 Оптимизации настроек и SQL-запросов_
+
+# _🟠 Радикальные оптимизации : кеширование и удаление_
+
+# 🔴 Рекомендации и скрипты _: Как автоматизировать?_ 
+
 ---
 
 <!-- _class: main -->
@@ -105,7 +111,7 @@ _footer: `Image by Vlad Gerasimov on https://vlad.studio/`
 
 <!-- _class: main problem -->
 
-## 🟢 __Allure__ __TestOps__
+## 🟣 __Allure__ __TestOps__
 
 # Как устроена система?
 
@@ -117,6 +123,14 @@ _footer: `Image by Vlad Gerasimov on https://vlad.studio/`
 
 ---
 
+![bg w:100%](img/allure.report.png)
+
+---
+
+![bg w:90%](img/allure.report.1.png)
+
+---
+
 <!-- _class: main -->
 
 # Allure TestOps 
@@ -124,88 +138,273 @@ _footer: `Image by Vlad Gerasimov on https://vlad.studio/`
 
 ---
 
+![bg w:90%](img/allure.testops.1.png)
+
+
+---
+
+![bg w:90%](img/allure.testops.2.png)
+
+---
+
+![bg w:100%](img/allure.testops.3.png)
+
+
+---
+
+![bg w:100%](img/allure.testops.5.png)
+
+
+---
+
+![bg h:80%](img/allure.test.ops.1.png)
+
+---
+
+![bg h:160%](img/allure.test.ops.1.png)
+
+
+---
+
+![bg h:80%](img/threads.png)
+
+---
+
+![bg h:80%](img/threads.2.png)
+
+---
+
+![bg h:80%](img/threads.3.png)
+
+
+---
+
+![bg h:80%](img/threads.4.png)
+
+
+---
+
+
+
 <!-- _class: main -->
 
-# Профили
+# Потоки подключения к базам данных (__JDBC__, __SQL__) быстрее всех заканчиваются
+
 
 ---
 
 <!-- _class: main -->
 
-# Сервисы
+# Система масштабируемая
+
 
 ---
 
-<!-- _class: main -->
+![bg h:80%](img/allure.test.ops.1.png)
 
-# Потоки приложений
+---
+
+![bg h:80%](img/allure.test.ops.2.png)
+
+---
+
+![bg h:80%](img/allure.test.ops.3.png)
+
+---
+
+![bg h:80%](img/allure.test.ops.4.png)
+
+---
+
+![bg h:80%](img/allure.test.ops.5.png)
+
+---
+
+![bg h:80%](img/allure.test.ops.6.png)
+
 
 ---
 
 
 <!-- _class: main -->
 
-# Потоки подключения к базам данных
+# При масштабировании __сервиса__ нужно обращать внимание и на количество __подключений__ к хранилищу
+
+
+---
+
+
+<!-- _class: main -->
+
+# В __PostgreSQL__ есть __несколько__ баз данных, _база данных __report__ наиболее нагруженная_
+
+---
+
+
+<!-- _class: main -->
+
+# _В __PostgreSQL__ есть __несколько__ баз данных,_ база данных __report__ наиболее нагруженная
+
+---
+
+<!-- _class: main2 problem -->
+
+# 🔵 Главная проблема горы тестов
+
+## __Где взять диски?__
+
 
 
 ---
 
 <!-- _class: main problem -->
 
-## 🟡 __Масштабирование__
-
-# cервисов и баз данных
+# Как удалить __старые__ данные?
 
 ---
-
-<!-- _class: main problem -->
-
-## 🟡 __Масштабирование__
-
-# Как масштабировать сервисы?
-
----
-
 
 <!-- _class: main -->
 
-# Сервис __report__ наиболее нагруженный
+# `https://help.qameta.io` > Knowledge base > General > Maintenance > __Storage and database cleanup__ 
 
 ---
 
-<!-- _class: main problem -->
-
-## 🟡 __Масштабирование__
-
-# Как масштабировать базу данных?
-
-
+![bg w:100%](img/cleanup.png)
 
 ---
 
+# Храним __2__ недели данные со статусом __Broken__ и __Failed__
+# Храним __1__ неделю данные со статусом __Passed__ и __Skipped__
+
+# Данные это
+- scenario
+
+	- результаты выполнения шагов
+- fixture
+	- результаты выполнения общих шагов
+- attachment
+	- вложения, картинки
+
+---
+
+![bg w:100%](img/test.with.attachments.png)
+
+---
+
+![bg w:100%](img/test.without.attachments.png)
+
+---
+
+![bg w:100%](img/test.with.attachments.2.png)
+
+---
+
+scenario:
+- Remove __scenario__ on __Broken__ test results after __336__ hours
+- Remove __scenario__ on __Failed__ test results after __336__ hours
+- Remove __scenario__ on __Passed__ test results after __168__ hours
+- Remove __scenario__ on __Skipped__ test results after __168__ hours
+
+fixture:
+- Remove __fixture__ on __Broken__ test results after __336__ hours
+- Remove __fixture__ on __Failed__ test results after __336__ hours
+- Remove __fixture__ on __Passed__ test results after __168__ hours
+- Remove __fixture__ on __Skipped__ test results after __168__ hours
+
+attachment:
+- Remove __attachment__ on __Broken__ test results after __336__ hours
+- Remove __attachment__ on __Failed__ test results after __336__ hours
+- Remove __attachment__ on __Passed__ test results after __168__ hours
+- Remove __attachment__ on __Skipped__ test results after __168__ hours
+
+---
+
+![bg w:100%](img/test.with.attachments.png)
+
+---
+
+![bg h:100%](img/Delete.Launches.png)
+
+---
 
 <!-- _class: main -->
 
-# База данных __report__ наиболее нагруженная
+# Delete (tool) > Vacuum
+
+---
+
+![bg h:100%](img/clean.01.png)
+
+---
+
+![bg w:100%](img/clean.02.png)
+
+---
+
+![bg w:100%](img/clean.03.png)
+
+---
+
+![bg w:100%](img/clean.04.png)
+
+---
+
+![bg w:100%](img/clean.05.png)
+
+---
+
+![bg h:100%](img/clean.06.png)
+
+---
+
+![bg h:100%](img/clean.07.png)
 
 
 ---
 
-<!-- _class: main problem -->
-
-
-## 🟠 __Оптимизации__ 
-
-# настроек и SQL-запросов
+![bg h:100%](img/clean.08.png)
 
 ---
 
-<!-- _class: main problem -->
+# Выросло количество потоков:
+## __rabbitConnectionFactorySharedExecutor__ -> taskExecutor
+![bg w:105%](img/clean.09.png)
+
+---
+
+# Утилизация __CPU__ 
+## на __PostgreSQL__ = 100%
+![bg w:105%](img/clean.10.png)
 
 
-## 🟠 __Оптимизации__ 
+---
 
-# Какие настройки поправить?
+<!-- _class: main -->
+
+# Delete (tool) > __Vacuum__
+
+---
+
+<!-- _class: main2 error -->
+
+# Главные проблемы горы тестов : Где взять __диски__? 
+
+## И как не положить __PostgreSQL__ при удалении данных?
+
+---
+
+<!-- _class: main solution -->
+
+
+# А давайте все отмасшабируем
+
+---
+
+<!-- _class: main2 problem -->
+
+# 🟢 Масштабирование _сервисов и баз данных_
+
+## __Как масштабировать?__
 
 
 ---
@@ -232,6 +431,95 @@ _footer: `Image by Vlad Gerasimov on https://vlad.studio/`
 
 # _Мы масштабировали __report__ сервис, потоков стало __кратно__ больше,_ некоторых потоков __слишком__ много, некоторых же __недостаточно__ много
 
+
+---
+
+
+![bg h:80%](img/allure.test.ops.1.png)
+
+
+---
+
+![bg h:80%](img/allure.test.ops.3.png)
+
+
+---
+
+![bg h:80%](img/size.01.png)
+
+
+---
+
+![bg h:80%](img/size.02.png)
+
+---
+
+# Отличаются на __200__ (потребители и исполнители)
+
+![bg h:50%](img/size.03.png)
+
+
+---
+
+# Отличаются на уже __2000__ после масштабирования в __10__ раз
+
+![bg h:90%](img/size.03.png)
+
+---
+
+# Issue #102
+
+![bg h:100%](img/102.png)
+
+---
+
+# Настройки по умолчанию заданы для 1-го сервиса
+
+```yaml
+report:
+  replicaCount: 1
+  taskExecutorCorePoolSize: 200
+  maxDBConn: 10
+  maxConcurrency: 5
+  maxS3Concurrency: 200
+
+```
+
+---
+
+# Если у нас больше реплик, то нужно пересчитать
+
+```yaml
+report:
+  replicaCount: 1
+  taskExecutorCorePoolSize: 200
+```
+
+# __replicaCount__ больше, а __taskExecutorCorePoolSize__ меньше
+```yaml
+report:
+  replicaCount: 10
+  taskExecutorCorePoolSize: 20
+```
+
+---
+
+<!-- _class: main  -->
+
+# И нужно больше __JDBC__ подключений, значение по умолчанию __10__ это очень мало
+
+
+---
+
+# Пусть будет __100__ JDBC-подключений
+
+```yaml
+report:
+  replicaCount: 10
+  taskExecutorCorePoolSize: 20
+  maxDBConn: 100
+```
+
 ---
 
 <!-- _class: main  -->
@@ -249,7 +537,19 @@ _footer: `Image by Vlad Gerasimov on https://vlad.studio/`
 
 <!-- _class: main solution -->
 
-# Мы масштабировали __report__ сервис, _потоков стало __кратно__ больше,_ количество __RabbitMQ__-потоков снизили, а __HicaryCP__ увеличили
+# Мы масштабировали __report__ сервис, _потоков стало __кратно__ больше,_ количество __task__-потоков снизили, а __HicaryCP__ увеличили
+
+
+
+---
+
+<!-- _class: main problem -->
+
+
+## 🟠 __Оптимизации__ 
+
+# настроек и __SQL-запросов__
+
 
 ---
 
@@ -305,7 +605,7 @@ _footer: `Image by Vlad Gerasimov on https://vlad.studio/`
 
 <!-- _class: main problem -->
 
-# А надо ли создавать индексы?
+# А __какие__ надо ли создавать __индексы__?
 
 ---
 
@@ -825,132 +1125,6 @@ proxy_pass https://backend;
 
 ---
 
-<!-- _class: main problem -->
-
-# Как удалить __старые__ данные?
-
----
-
-<!-- _class: main -->
-
-# https://help.qameta.io/ > Knowledge base > General > Maintenance > __Storage and database cleanup__ 
-
----
-
-![bg w:100%](img/cleanup.png)
-
----
-
-# Храним __2__ недели данные для тестов со статусом __Broken__ и __Failed__
-# Храним __1__ неделю данные для тестов со статусом __Passed__ и __Skipped__
-
-# Данные это
-- scenario
-
-	- результаты выполнения шагов
-- fixture
-	- вложения, картинки в блоки в общие шаги @SetUp, @Teardown
-- attachment
-	- вложения, картинки в блоки @Test
-
----
-
-![bg w:100%](img/test.with.attachments.png)
-
----
-
-![bg w:100%](img/test.without.attachments.png)
-
----
-
-![bg w:100%](img/test.with.attachments.2.png)
-
----
-
-## scenario (шаги теста и их статусы)
-- Remove __scenario__ on __Broken__ test results after __336__ hours
-- Remove __scenario__ on __Failed__ test results after __336__ hours
-- Remove __scenario__ on __Passed__ test results after __168__ hours
-- Remove __scenario__ on __Skipped__ test results after __168__ hours
-
-## fixture (вложения в общие шаги теста)
-- Remove __fixture__ on __Broken__ test results after __336__ hours
-- Remove __fixture__ on __Failed__ test results after __336__ hours
-- Remove __fixture__ on __Passed__ test results after __168__ hours
-- Remove __fixture__ on __Skipped__ test results after __168__ hours
-
-## attachment (вложения в шаги теста)
-- Remove __attachment__ on __Broken__ test results after __336__ hours
-- Remove __attachment__ on __Failed__ test results after __336__ hours
-- Remove __attachment__ on __Passed__ test results after __168__ hours
-- Remove __attachment__ on __Skipped__ test results after __168__ hours
-
----
-
-![bg h:100%](img/Delete.Launches.png)
-
----
-
-<!-- _class: main -->
-
-# Delete (tool) > Vacuum
-
----
-
-![bg h:100%](img/clean.01.png)
-
----
-
-![bg w:100%](img/clean.02.png)
-
----
-
-![bg w:100%](img/clean.03.png)
-
----
-
-![bg w:100%](img/clean.04.png)
-
----
-
-![bg w:100%](img/clean.05.png)
-
----
-
-![bg h:100%](img/clean.06.png)
-
----
-
-![bg h:100%](img/clean.07.png)
-
-
----
-
-![bg h:100%](img/clean.08.png)
-
----
-
-# Выросло количество потоков:
-## - taskExecutor
-## - __rabbitConnectionFactorySharedExecutor__
-![bg h:100%](img/clean.09.png)
-
----
-
-# Утилизация __CPU__ 
-## на __PostgreSQL__ = 100%
-![bg h:100%](img/clean.10.png)
-
-
----
-
-<!-- _class: main -->
-
-# Delete (tool) > __Vacuum__
-
-
----
-
 
 <!-- _class: main problem -->
 
@@ -960,11 +1134,48 @@ proxy_pass https://backend;
 
 ---
 
+<!-- _class: main -->
+
+# `github.com/polarnik/` `Allure.TestOps.SpeedUp`
+
+---
+
+<!-- _class: main -->
+
+# Доски мониторинга, _примеры индексов и скрипт для создания индексов на основе ваших данных_
+
+---
+
+<!-- _class: main -->
+
+# _Доски мониторинга,_ примеры индексов _и скрипт для создания индексов на основе ваших данных_
+
+---
+
+<!-- _class: main -->
+
+# _Доски мониторинга, примеры индексов и_ скрипт для создания индексов на основе ваших данных
+
+---
+
+<!-- _class: main -->
+
+# `github.com/polarnik/` `Allure.TestOps.SpeedUp`
+
+
+---
+
+<!-- _class: main  solution -->
+
+# __3 месяца работы сжатые в день__: мониторинг, оптимизация настроек, добавление индексов 
+
+---
+
 <!-- _class: main  -->
 
 ## __Ваши вопросы__
 
-# ☕️ Оптимизация вашей __Allure TestOps__, приходите в ![h:55](themes/img/Telegram_logo.svg) qa_load
+# Репозиторий: `github.com/polarnik/` `Allure.TestOps.SpeedUp`, ![h:55](themes/img/Telegram_logo.svg) qa_load
 
 <!--
 _footer: `Images from vlad.studio. Slides from https://polarnik.github.io/Allure.TestOps.SpeedUp/slides.html`

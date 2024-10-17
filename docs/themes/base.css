@@ -31,6 +31,8 @@
 }
 
 section {
+    width: 1280x;
+    height: 720px;
     background-color: var(--bg-color) ;
     background-image: var(--logo);
     background-position: 95% 95%, 0% bottom;
